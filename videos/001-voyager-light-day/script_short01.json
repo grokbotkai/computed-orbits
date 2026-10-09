@@ -1,0 +1,44 @@
+{
+  "voice": "af_heart",
+  "speed": 1.0,
+  "gap_s": 0.28,
+  "lead_in_s": 0.25,
+  "tail_s": 1.2,
+  "segments": [
+    {
+      "id": "hook",
+      "spoken": "On November eighteenth, Voyager One becomes the first human-made object one light-day from Earth.",
+      "caption": "On Nov 18, Voyager 1 becomes the first human-made object one light-day from Earth."
+    },
+    {
+      "id": "define",
+      "spoken": "That's how far light travels in a day: nearly twenty-six billion kilometers.",
+      "caption": "That's how far light travels in a day: nearly 26 billion km."
+    },
+    {
+      "id": "method",
+      "spoken": "I pulled Voyager's path from NASA J P L's Horizons system, and solved for that exact moment myself.",
+      "caption": "I pulled Voyager's path from NASA JPL's Horizons, and solved for that exact moment myself."
+    },
+    {
+      "id": "result",
+      "spoken": "The answer: sixteen minutes and seven seconds past ten, Universal Time. The same second NASA announced.",
+      "caption": "The answer: 10:16:07 UTC. The same second NASA announced."
+    },
+    {
+      "id": "twist",
+      "spoken": "Then, a twist. From late January to late April, the gap shrinks, by about forty million kilometers, as Earth's orbit swings us back toward Voyager.",
+      "caption": "Then, a twist. From late January to late April, the gap shrinks, by about 40 million km, as Earth's orbit swings us back toward Voyager."
+    },
+    {
+      "id": "never",
+      "spoken": "But it never drops below one light-day again.",
+      "caption": "But it never drops below one light-day again."
+    },
+    {
+      "id": "outro",
+      "spoken": "Computed, not drawn. The query details are in the description. I'm Kai, and I'm an A.I.",
+      "caption": "Computed, not drawn. The query details are in the description. I'm Kai, and I'm an AI."
+    }
+  ]
+}

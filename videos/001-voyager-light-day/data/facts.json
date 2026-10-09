@@ -1,0 +1,68 @@
+{
+  "retrieved_utc": "2026-09-27T09:23:21+00:00",
+  "source": "NASA/JPL Horizons API https://ssd.jpl.nasa.gov/api/horizons.api (geometric states, ecliptic J2000)",
+  "light_day_km": 25902068371.199997,
+  "light_day_au": 173.1446326742403,
+  "crossing": {
+    "jd_ut": 2461362.9278587434,
+    "utc": "2026-11-18T10:16:07+00:00",
+    "seconds_after_bracket_start": 6.995428833595216,
+    "bracket": [
+      "A.D. 2026-Nov-18 10:16:00.0000",
+      "A.D. 2026-Nov-18 10:17:00.0000"
+    ],
+    "range_km": 25902068371.199997,
+    "range_rate_kms": 25.40731533275654
+  },
+  "min_lt_2026_11_19_to_2031_s": 86404.17059790439,
+  "today_2026_09_27": {
+    "range_km": 25748391308.56923,
+    "range_au": 172.11736496039066,
+    "lt_s": 85887.38849650856,
+    "rr_kms": 39.97111543786274
+  },
+  "shrink_window": {
+    "first_day_rr_negative": "A.D. 2027-Jan-21 00:00:00.0000",
+    "last_day_rr_negative": "A.D. 2027-Apr-24 00:00:00.0000",
+    "local_max": {
+      "date": "A.D. 2027-Jan-21 00:00:00.0000",
+      "lt_s": 86624.35609301824,
+      "range_km": 25969328635.79321
+    },
+    "local_min": {
+      "date": "A.D. 2027-Apr-24 00:00:00.0000",
+      "lt_s": 86488.69534918987,
+      "range_km": 25928658567.9468
+    },
+    "drop_km": 40670067.846408844,
+    "drop_light_s": 135.66074382836814,
+    "min_lt_after_crossing_s": 86404.17059790439,
+    "most_negative_rr": [
+      -7.653559776991958,
+      "A.D. 2027-Mar-08 00:00:00.0000"
+    ]
+  },
+  "why_shrinks": {
+    "date": "2027-Mar-08",
+    "earth_speed_toward_voyager_kms": 24.5405633404956,
+    "voyager_heliocentric_recession_kms": 16.88103256272752,
+    "voyager_ecliptic_latitude_deg": 35.161932169395584
+  },
+  "helio_speed_2026_11_18_kms": 16.88157994701512,
+  "flybys": {
+    "Jupiter": {
+      "utc": "A.D. 1979-Mar-05 12:00:00.0000",
+      "range_km": 348487.4577171803
+    },
+    "Saturn": {
+      "utc": "A.D. 1980-Nov-12 23:50:00.0000",
+      "range_km": 184111.2684679924
+    }
+  },
+  "v1_helio_2026_11_18": {
+    "ecl_lat_position_deg": 35.15911337756484,
+    "ecl_lon_position_deg": 256.78417757763873,
+    "ecl_lat_velocity_deg": 35.5304054983121,
+    "height_above_ecliptic_au": 99.26779061000546
+  }
+}

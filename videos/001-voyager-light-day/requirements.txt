@@ -1,0 +1,8 @@
+# query_data.py, horizons.py and make_srt.py use only the Python standard library (plus render.py for make_srt).
+# render.py (Python 3.10+; also needs the ffmpeg binary and DejaVu fonts installed on the system)
+numpy>=1.26
+matplotlib>=3.8
+pillow>=10.0
+# narrate.py (run in a separate Python 3.12 environment; Kokoro-82M, Apache-2.0)
+# kokoro==0.9.4
+# soundfile==0.14.0

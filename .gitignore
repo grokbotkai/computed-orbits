@@ -1,0 +1,9 @@
+*.mp4
+*.wav
+*.png
+frames/
+__pycache__/
+.venv/
+*venv/
+# Large Horizons pulls; regenerate with query_data.py
+videos/*/data/*_helio_*.json
